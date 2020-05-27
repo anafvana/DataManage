@@ -1,0 +1,43 @@
+@media only screen and (min-width: 1805px) {
+
+    h1 {
+        font-size: 40px;
+    }
+
+    ul.top-nav {
+        font-size: 35px;
+    }
+
+    section.index-text {
+        font-size: 23px;
+    }
+
+    section.index-inner-box-1{
+        width: 39%;
+    }
+
+    section.main-text{
+        font-size: 23px;
+    }
+
+    ul.bottom-nav {
+        font-size: 23px;
+    }
+
+    section.contact-info{
+        font-size: 23px;
+    }
+
+    p.explain-text{
+        font-size: 23px;
+    }
+
+    section.howitworks-box h3 {
+        font-size: 25px;
+    }
+
+    section.howitworks-inner-box2{
+        font-size: 23px;
+    }
+
+}

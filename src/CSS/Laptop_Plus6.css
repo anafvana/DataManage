@@ -1,0 +1,10 @@
+@media only screen and (min-width: 2300px) {
+
+    section.index-inner-box-1{
+        width: 35%;
+    }
+
+    section.index-inner-box-2{
+        width: 30%;
+    }
+}

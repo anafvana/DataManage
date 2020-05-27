@@ -1,0 +1,128 @@
+@media only screen and (max-width: 480px) {
+
+    h1{
+        font-size: 25px;
+    }
+
+    a.active{
+        font-weight: normal;
+        text-decoration: none;
+        color: #363B4B;
+    }
+
+    a.active-footer{
+        font-weight: bold;
+        text-decoration: none;
+        color: #f5f5f5;
+    }
+
+    header .small-logo{
+        width: 20%;
+        display: inline-block;
+        padding: 0.5% 0.5% 0.5% 2%;
+    }
+
+    nav {
+        width: 100%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        background-color: #363B4B;
+        position: fixed;
+        box-shadow: 0 0 0 #363B4B;
+        z-index:2;
+        top:0;
+    }
+
+    ul.top-nav {
+        width: 74%;
+        font-size: 18px;
+        top:15%;
+    }
+
+    li.nav-element {
+        display: inline-block;
+        margin-bottom: 3%;
+        margin-right: 1.5%;
+        padding: 1%;
+        border-color: #f5f5f5;
+        border-style: solid;
+        border-width: 2px;
+    }
+
+    li.active.nav-element{
+        background-color: #f5f5f5;
+    }
+
+    img.front-photo{
+        width: 100%;
+        margin-top: 22%;
+        box-shadow: 0 3px 5px #E0E2E3;
+    }
+
+    section.index-text{
+        width: 88%;
+        font-size: 18px;
+        margin-left:6%;
+        margin-bottom: 7%;
+    }
+
+    section.index-inner-box-1{
+        display: inline-block;
+        padding-left: 0;
+        width: 83%;
+        text-align: left;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    section.index-inner-box-2{
+        display: inline-block;
+        width: 70%;
+        padding-right:10%;
+        padding-top: 5%;
+    }
+
+    section.main-text{
+        width: 88%;
+        margin-left:6%;
+        margin-top: 34%;
+        margin-bottom: 7%;
+        font-size: 18px;
+        background-color: #f5f5f5;
+        padding: 4% 0 10% 0;
+    }
+
+    section.main-inner-box1{
+        width: 83%;
+        margin-left:10%;
+    }
+
+    img.demo-picture{
+        width: 40%;
+        display:inline-block;
+    }
+
+    section.howitworks-box{
+        width: 100%;
+        margin-left: 0;
+    }
+
+    section.howitworks-inner-box1{
+        width: 85%;
+    }
+
+    section.howitworks-inner-box2{
+        font-size: 18px;
+    }
+
+    ul.bottom-nav {
+        font-size: 16px;
+        margin-left: 7%;
+    }
+
+    section.contact-info{
+        font-size: 16px;
+        text-align: left;
+    }
+
+}

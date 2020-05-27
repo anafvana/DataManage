@@ -1,0 +1,15 @@
+@media only screen and (min-width: 2208px) {
+
+    h1{
+        font-size: 45px;
+    }
+
+    section.index-inner-box-1{
+        width: 37%;
+    }
+
+    section.index-inner-box-2{
+        width: 32%;
+    }
+
+}

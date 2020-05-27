@@ -1,0 +1,29 @@
+@media only screen and (min-width: 1967px) {
+    ul.top-nav {
+        font-size: 37px;
+    }
+
+    section.index-text {
+        font-size: 25px;
+    }
+
+    section.index-inner-box-1{
+        width: 40%;
+    }
+
+    section.main-text{
+        font-size: 25px;
+    }
+
+    p.explain-text{
+        font-size: 25px;
+    }
+
+    section.howitworks-box h3 {
+        font-size: 28px;
+    }
+
+    section.howitworks-inner-box2{
+        font-size: 25px;
+    }
+}

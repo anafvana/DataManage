@@ -1,0 +1,54 @@
+@media only screen and (min-width: 1450px) {
+
+    h1 {
+        font-size: 32px;
+    }
+
+    ul.top-nav {
+        width: 84%;
+        font-size: 26px;
+    }
+
+    section.index-text{
+        font-size: 18px;
+    }
+
+    section.index-inner-box-1{
+        width: 36%;
+    }
+
+    section.index-inner-box-2{
+        width: 37%;
+    }
+
+    img.index-phone{
+        width: 48%;
+        margin-bottom: 10%;
+    }
+
+    section.main-text{
+        font-size: 18px;
+    }
+
+    ul.bottom-nav {
+        font-size: 19px;
+    }
+
+    section.contact-info{
+        font-size: 19px;
+    }
+
+    p.explain-text{
+        font-size: 19px;
+    }
+
+    section.howitworks-box h3 {
+        font-size: 20px;
+    }
+
+    section.howitworks-inner-box2{
+        font-size: 19px;
+    }
+
+
+}

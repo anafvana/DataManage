@@ -1,0 +1,5 @@
+@media only screen and (max-width: 688px) {
+    ul.top-nav {
+        font-size: 16px;
+    }
+}
